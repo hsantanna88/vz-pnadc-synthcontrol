@@ -7,3 +7,5 @@ The first file prepares the data by naming columns with a clear name and cleanin
 The second script is used to group by state and quarter the social indicators and outcome variables we will use for our study.
 
 The third script finally optimizes the weights of the donor states and plot the synthetic control results.
+
+The last script is a template for graph styles.
